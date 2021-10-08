@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    background-color: rgb(250, 250, 240);
+    color: rgb(48, 48, 40);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 10vw;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: rgb(48, 48, 40);
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: rgb(48, 48, 40);
+}
+
+img {
+    height: 50vh;
+    width: auto;
+    border-radius: 5%;
+}
